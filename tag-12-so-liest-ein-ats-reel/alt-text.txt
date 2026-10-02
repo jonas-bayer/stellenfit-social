@@ -1,0 +1,1 @@
+Animation: Ein gestalteter Lebenslauf wird von einem Bewerbungssystem ausgelesen und zerfällt in ungeordneten Text. Fünf typische Formatfehler werden markiert.
